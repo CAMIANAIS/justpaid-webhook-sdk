@@ -98,4 +98,4 @@ The development was structured into three logical backend layers:
 ### 7. Result
 Below is the successful interception of a high-risk enterprise contract via the local webhook simulation, validating the compliance logic:
 
-![Final Result](./src/assets/Result.jpeg)
+![Final Result](./src/assets/result.png)
